@@ -17,6 +17,6 @@ CSS3
 SQL
 
 ## Social
-# LinkedIn ----> https://www.linkedin.com/in/khaleel-shaik631/ <br>
-# Twitter ----> https://twitter.com/Shaik_khaleel9 <br>
-# Instagram ---> https://www.instagram.com/shaik_khaleel09/ <br>
+LinkedIn ----> https://www.linkedin.com/in/khaleel-shaik631/ <br>
+Twitter ----> https://twitter.com/Shaik_khaleel9 <br>
+Instagram ---> https://www.instagram.com/shaik_khaleel09/ <br>
