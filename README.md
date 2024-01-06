@@ -20,6 +20,9 @@ I am passionate student trying to learn and build new things about Data Analysis
 </p>
 
 ## Social
-LinkedIn ----> https://www.linkedin.com/in/khaleel-shaik631/ <br>
-Twitter ----> https://twitter.com/Shaik_khaleel9 <br>
-Instagram ---> https://www.instagram.com/shaik_khaleel09/ <br>
+<p align="left"> 
+<a href="https://www.linkedin.com/in/khaleel-shaik631/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://twitter.com/Shaik_khaleel9" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+<a href="https://www.instagram.com/shaik_khaleel09/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+<a href="[https://www.facebook.com/profile.php?id=100076311196143](https://www.facebook.com/profile.php?id=100022049557212)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> 
+</p>
