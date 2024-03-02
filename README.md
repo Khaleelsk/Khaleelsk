@@ -4,8 +4,7 @@
 I am passionate student trying to learn and build new things about Data Analysis, Web Design, Full Stack Web Development and many more. I am a Data Science student and I have a sufficient knowledge of Data Science such as DataBase Management System, Data Analysis, Data Structures & Algorithms, and backend programs like C, Java, Python and SQL. I am a quick learner and a team worker that gets the job done. I am a very flexible and resourceful person.I am able to manage the my time according to the job.
 
 * 🧠 I’m currently Learning  Web App Development Using Streamlit<br>
-* ![image](https://github.com/Khaleelsk/Khaleelsk/assets/98602348/98713e44-0a09-4fe7-a4c4-e28e345a01d5)
-Follow Me on LinkedIn.<br>
+* 👉 Follow Me on LinkedIn.<br>
 * 📫 How to reach me: khaleelsk631@gmail.com <br>
 * 🛐 I'm Native of Guntur,Andhra Pradesh,India <br>
 * 📚 I'm Studying B.Tech in the Stream Of Data Science.
