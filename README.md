@@ -49,18 +49,17 @@ I am a recent Computer Science Engineering graduate with a focus on Data Science
 ## 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaleel-shaik631/)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@gmail.com)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khaleelsk631@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Khaleelsk)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=About.me&logoColor=white)](https://tinyurl.com/shaik631)  
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/Shaik_khaleel9)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/shaik_khaleel09/)
 
 ---
 
 ## 📌 Education
 🎓 **Bachelor’s Degree in Data Science**  
 🏫 **KKR & KSR Institute of Technology and Sciences, Guntur** | **Graduation Year: 2024**  
-Relevant coursework: Machine Learning, Deep Learning, Data Visualization, Big Data Analytics, AI & Cloud Computing.
+Relevant coursework: Machine Learning, Deep Learning, Data Visualization, Web Development and FrontEnd Development.
 
 ---
 
@@ -93,5 +92,5 @@ Check out my **resume** for a deeper look into my skills and projects!
 ---
 
 
-🚀 **Enjoyed my work?** Give this repo a ⭐ and let’s build something groundbreaking in **Data Science, AI & Gen AI!**  
+🚀 **Enjoyed my work?** Give this repo a ⭐ and let’s build something groundbreaking in **Data Science, Data Analytics and  AI & Gen AI!**  
 💡 **Seeking a Data Scientist or AI Engineer?** Let’s collaborate on the next **big innovation!**  
