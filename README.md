@@ -52,8 +52,8 @@ I am a recent Computer Science Engineering graduate with a focus on Data Science
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Khaleelsk)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=About.me&logoColor=white)](https://tinyurl.com/shaik631)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/your-twitter)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/shaik_khaleel09/))  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/Shaik_khaleel9)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/shaik_khaleel09/)
 
 ---
 
@@ -67,5 +67,31 @@ Relevant coursework: Machine Learning, Deep Learning, Data Visualization, Big Da
 ## Github Stats :
 <a href="http://www.github.com/Khaleelsk"><img src="https://github-readme-stats.vercel.app/api?username=Khaleelsk&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Khaleel-Shaik's GitHub stats" /></a>
 
+---
+
 <a href="https://github.com/Khaleelsk" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khaleelsk&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+---
+
+## 📰 Publications
+- **Voice Mood Detection: A Comprehensive Approach to Emotion Recognition in Speech**  
+  Published in **Journal of Information and Computational Science (JOICS)**  
+  🔗 [Read Publication](DOI:10.12733.JICS.2024.V14I03.535569.10017)  
+  
+----
+
+## 📄 Resume
+📥 **Looking for my detailed experience?**  
+Check out my **resume** for a deeper look into my skills and projects!  
+[Download My Resume](https://drive.google.com/file/d/1YFWdQd9c4g8uvXtuL_I_H5b2Vxx23BSJ/view?usp=drive_link)
+
+---
+
+💬 **Open to:** Internships | Entry-Level Roles | Research | AI/ML Projects  
+📬 **Let's Chat:** Feel free to email me or connect on LinkedIn!
+
+---
+
+
+🚀 **Enjoyed my work?** Give this repo a ⭐ and let’s build something groundbreaking in **Data Science, AI & Gen AI!**  
+💡 **Seeking a Data Scientist or AI Engineer?** Let’s collaborate on the next **big innovation!**  
