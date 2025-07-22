@@ -8,7 +8,7 @@
 
 ## 🎯 Career Objective
 
-Recently graduated in Computer Science with a specialization in Data Science, I’m passionate about building intelligent solutions that bridge data, software, and business challenges. With hands-on experience in Python, MySQL, Java, and a solid foundation in machine learning, I aim to contribute as a Software Engineer, Data Analyst/Scientist, or Frontend Developer at forward-thinking organizations[1][2].
+Recently graduated in Computer Science with a specialization in Data Science, I’m passionate about building intelligent solutions that bridge data, software, and business challenges. With hands-on experience in Python, MySQL, Java, and a solid foundation in machine learning, I aim to contribute as a Software Engineer, Data Analyst/Scientist, or Frontend Developer at forward-thinking organizations.
 
 ---
 
@@ -61,6 +61,8 @@ Recently graduated in Computer Science with a specialization in Data Science, I�
 **Tools & Version Control**  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)
+
 
 ---
 
