@@ -79,7 +79,7 @@ Recently graduated in Computer Science with a specialization in Data Science, Iâ
 
 - **Voice Mood Detection: A Comprehensive Approach to Emotion Recognition in Speech**  
   *Journal of Information and Computational Science (JOICS)*  
-  DOI: 10.12733.JICS.2024.V14I03.535569.10017
+ [ DOI: 10.12733.JICS.2024.V14I03.535569.10017](https://joics.org/vol-14-issue-3-2024/)
 
 ---
 
@@ -102,7 +102,7 @@ Graduated: 2024
 ## ðŸ“„ Resume
 
 **Want to know more?**  
-[Download my Resume](https://drive.google.com/file/d/1YFWdQd9c4g8uvXtuL_I_H5b2Vxx23BSJ/view?usp=drive_link)
+[Download my Resume](https://drive.google.com/file/d/1As97A3SqWDNz3Cti2YpEGWjF6X7YGynb/view?usp=drive_link).
 
 ---
 
