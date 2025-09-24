@@ -16,7 +16,7 @@ Recently graduated in Computer Science with a specialization in Data Science, I�
 
 - 📍 Based in Guntur, Andhra Pradesh, India  
 - 🎓 B.Tech in Data Science, Class of 2024  
-- 🛠️ Training in Data Engineering & Azure tools[2][3]  
+- 🛠️ Training in Data Engineering & Azure tools  
 - 🧠 Dedicated to expanding expertise in AI, ML, and Big Data  
 - 📊 Experienced with data analytics, predictive modeling & visualization  
 - 🤖 Keen to solve real-world problems with AI-driven innovations  
@@ -31,7 +31,7 @@ Recently graduated in Computer Science with a specialization in Data Science, I�
 - **Analytical** mindset & problem-solving skills  
 - Proficient in handling **large datasets** and **ETL pipelines**  
 - Adaptable learner of new technologies & frameworks  
-- Fluent in **Python, SQL, Machine Learning, HTML/CSS, JavaScript, ReactJS**  
+- Fluent in **Python, SQL, Machine Learning, HTML/CSS, Azure, Data Analysis**  
 - Effective communicator & enthusiastic team player  
 
 ---
